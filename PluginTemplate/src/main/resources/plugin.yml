@@ -1,9 +1,0 @@
-name: template
-version: 1.0
-main: yours4nty.template.Main
-api-version: 1.20
-author: YourS4nty
-commands:
-  hola:
-    description: Saluda al jugador
-    usage: /hola
